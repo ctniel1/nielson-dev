@@ -1,3 +1,9 @@
+import Provo from '../assets/provo.jpeg'
+
 export default function Home() {
-  return <h2>Home</h2>
+  return (
+    <div>
+      <img src={Provo} alt="Utah County at night"/>
+    </div>
+  )
 }

@@ -3,17 +3,19 @@
   flex-direction: row;
   justify-content: flex-end;
   align-items: flex-end;
-  margin: 30px;
+  padding: 30px;
   position: sticky;
+  background-color: rgba(18,22,33,1);
 }
 
 .menu-item {
   padding: 15px;
   text-decoration: none;
-  color: black;
+  color: white;
   transition: 0.3s;
 }
 
 .menu-item:hover {
   background-color: lightgray;
+  color: black;
 }

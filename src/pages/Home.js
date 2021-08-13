@@ -1,5 +1,5 @@
-import '../assets/home.css'
-import Logo from '../assets/logo.png'
+import '../assets/styles/home.css'
+import Logo from '../assets/images/logo.png'
 import { Link } from 'react-router-dom'
 
 export default function Home() {

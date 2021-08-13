@@ -1,3 +1,8 @@
+html {
+  background-color: rgb(18,22,33);
+  color: white;
+}
+
 #main-menu {
   display: flex;
   flex-direction: row;
@@ -5,7 +10,8 @@
   align-items: flex-end;
   padding: 30px;
   position: sticky;
-  background-color: rgba(18,22,33,1);
+  top: 0;
+  background-color: rgba(18,22,33);
 }
 
 .menu-item {

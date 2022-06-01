@@ -1,0 +1,63 @@
+{
+  "familysearch": {
+    "title": "FamilySearch",
+    "position": "Frontend Web Developer",
+    "duration": "April 2020 - Present",
+    "summary": [
+      "Began as an intern during the summer of 2020. Starting right after the Covid shutdown, I have worked remotely throughout my tenure here. I was made a contracted employee in December of 2020.",
+      "While here, I have learned to work in a front-end team inside of a large organization. We work in an Agile environment, with 2-week iterations and daily stand-up meetings.",
+      "My work has consisted of developing React components to build out UI for users that come to FamilySearch.org. As part of the Records Improvement Team, I assisted in developing tools to allow users to interact with computer-generated data to improve the AI used to scan images and extract data from the records."
+    ]
+  },
+  "caravel": {
+    "title": "Caravel Associates",
+    "position": "React Native Developer",
+    "duration": "September 2020 - January 2021",
+    "summary": [
+      "Began the development process on a mobile application called Klapr that was designed to be a platform that would support street performers. We utilized React Native to allow for cross-platform development.",
+      "As the lead developer for the project, I took part in selecting the technology stack that we would use. We held weekly meetings to go over our progress and assign out new tasks."
+    ]
+  },
+  "ybaShirts": {
+    "title": "YBA Shirts",
+    "position": "Full Stack Web Developer",
+    "duration": "September 2019 - April 2020",
+    "summary": ["Front End duties include using React components and Material Design to build a simple but beautiful company portal website. Back End duties include using Node and MySQL to add functionality and access to the database and the resources needed for the company to function properly. Most recently, I integrated Quickbooks Online into the website for the Accounting Department to handle invoices and bills without leaving the company portal site."]
+  },
+  "byuAthletics": {
+    "title": "BYU Athletics",
+    "position": "Full Stack Web Developer",
+    "duration": "April 2018 - April 2020",
+    "summary": ["Front End duties include using Angular components while currently switching over to a Drupal-based front end. Back End duties include using Drupal as a CMS and creating custom modules to allow functionality for editors who provide stories to byucougars.com. Rapid response to bugs found by front end users to help maintain a clean and fast performance for users throughout the world."]
+  },
+  "symantec": {
+    "title": "Symantec",
+    "position": "Tech Support Intern",
+    "duration": "January 2018 - June 2018",
+    "summary": ["First response to customers who had purchased the CASB product, a cloud-based security solution. Multitasked by working on multiple cases for multiple customers, often communicating via phone or email. Helped non-technical customers by walking them through solutions to the issues they were having."]
+  },
+  "byuOIT": {
+    "title": "BYU Office of IT",
+    "position": "Student Web Developer",
+    "duration": "February 2017 - February 2018",
+    "summary": ["First introduction to Web Development, spent several months learning the basics of HTML, CSS, and JavaScript. Created a linking website where BYU students would have a collection of useful links to other sites."]
+  },
+  "entrata": {
+    "title": "Entrata",
+    "position": "Leasing Specialist",
+    "duration": "October 2016 - February 2017",
+    "summary": ["I act as an extension of hundreds of leasing offices throughout the country. I talk to people who are looking to lease apartments, residents who have maintenance or other issues, and a lot of other miscellaneous calls."]
+  },
+  "byuVending": {
+    "title": "BYU Vending",
+    "position": "Route Driver",
+    "duration": "August 2015 - October 2016",
+    "summary": ["I move product from the warehouse to the individual vending machines on the campus of Brigham Young University. As part of this process, I collect money from the machine and ensure that we have accurate numbers on the inventory of the products in the machines."]
+  },
+  "vivint": {
+    "title": "Vivint",
+    "position": "Customer Loyalty Representative",
+    "duration": "February 2015 - August 2015",
+    "summary": ["Taking inbound phone calls from customers that have questions about their contracts or that wanted to cancel their accounts."]
+  }
+}

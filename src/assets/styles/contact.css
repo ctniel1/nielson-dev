@@ -1,0 +1,32 @@
+.contact-container {
+  width: 25%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 10em;
+  border: 1px solid white;
+  border-radius: 15px;
+  background-color: rgba(255,255,255,0.2);
+  padding: 15px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  margin-bottom: 15px;
+}
+
+.submit-btn {
+  width: auto;
+  margin: auto;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: none;
+  background-color: white;
+  cursor: pointer;
+}

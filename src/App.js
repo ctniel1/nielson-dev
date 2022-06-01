@@ -16,11 +16,11 @@ function App() {
     <Router>
       <div>
         <nav id="main-menu">
-          <Link to="/" class="menu-item">Home</Link>
-          <Link to="/about" class="menu-item">About</Link>
-          <Link to="/workhistory" class="menu-item">Work History</Link>
-          <Link to="/projects" class="menu-item">Projects</Link>
-          <Link to="/contact" class="menu-item">Contact</Link>
+          <Link to="/" className="menu-item">Home</Link>
+          <Link to="/about" className="menu-item">About</Link>
+          <Link to="/workhistory" className="menu-item">Work History</Link>
+          {/* <Link to="/projects" class="menu-item">Projects</Link> */}
+          <Link to="/contact" className="menu-item">Contact</Link>
         </nav>
 
         {/* A <Switch> looks through its children <Route>s and

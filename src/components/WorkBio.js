@@ -4,38 +4,24 @@ export default function WorkBio({ image, imageAlt, title, position, duration, su
   return (
     <div className='work-container'>
       {leftAlign && (
-        <>
-          <div>
-            <img className='work-img' src={image} alt={imageAlt}/>
-          </div>
-          <div className='work-title'>
-            <h1><strong>{title}</strong></h1>
-            <div className='work-role'>
-              <h2>{position}</h2>
-              <h2>{duration}</h2>
-            </div>
-            {summary.map((p) => (
-              <p className='work-p'>{p}</p>
-            ))}
-          </div>
-        </>
+        <div>
+          <img className='work-img' src={image} alt={imageAlt} />
+        </div>
       )}
+      <div className='work-title'>
+        <h1><strong>{title}</strong></h1>
+        <div className='work-role'>
+          <h2>{position}</h2>
+          <h2>{duration}</h2>
+        </div>
+        {summary.map((p) => (
+          <p className='work-p'>{p}</p>
+        ))}
+      </div>
       {!leftAlign && (
-        <>
-          <div className='work-title'>
-            <h1><strong>{title}</strong></h1>
-            <div className='work-role'>
-              <h2>{position}</h2>
-              <h2>{duration}</h2>
-            </div>
-            {summary.map((p) => (
-              <p className='work-p'>{p}</p>
-            ))}
-          </div>
-          <div>
-            <img className='work-img' src={image} alt={imageAlt}/>
-          </div>
-        </>
+        <div>
+          <img className='work-img' src={image} alt={imageAlt} />
+        </div>
       )}
     </div>
   )
